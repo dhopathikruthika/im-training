@@ -1,4 +1,3 @@
-// C program to find the length of string
 #include <stdio.h>
 #include <string.h>
 
