@@ -27,8 +27,7 @@ void addLast(struct node **head, int val)
         {
             lastNode = lastNode->next;
         }
-
-        //add the newNode at the end of the linked list
+t
         lastNode->next = newNode;
     }
 
