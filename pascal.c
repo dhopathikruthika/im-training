@@ -1,5 +1,6 @@
 #include <stdio.h>
-int main() {
+int main() 
+{
     int i,j,s,n=5,c;
     for(i=0;i<n;i++)
     {
