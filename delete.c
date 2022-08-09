@@ -22,11 +22,11 @@ Node* deleteKey(Node* head, int x)
 	Node *curr = head, *prev = NULL;
 	while (curr) 
 	{
-			if (curr->data == x)
-				prev->next = curr->next;
-			else
-				prev = curr;
-			curr = curr->next;
+		if (curr->data == x)
+		prev->next = curr->next;
+		else
+		prev = curr;
+		curr = curr->next;
 	}
 	return head;
 }
