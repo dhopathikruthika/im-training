@@ -26,5 +26,3 @@ printf("small number=%d\nbig number=%d\n",small,big);
 printf("range=%d\n",abs(range));
 return 0;
 }
-
-
