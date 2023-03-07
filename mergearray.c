@@ -2,7 +2,7 @@
 #include<conio.h>
 int main()
 {
-    int arr1[50],arr2[50],size1,size2,i,j,merge[100];
+    int arr1[50], arr2[50],size1,size2,i,j,merge[100];
     printf("Enter Array 1 Size: ");
     scanf("%d",&size1);
     printf("Enter Array 1 Elements: ");
